@@ -1,6 +1,10 @@
-git add .
-　　git commit -m 'first_commit'
-　　git remote add origin https://github.com/hominglee/serpi.git
-　　git push origin master
 
+
+git add .
+git commit -m 'first_commit'
+git remote add origin https://github.com/hominglee/serpi.git
 git push origin master -f
+
+
+//非强制
+git push origin master
