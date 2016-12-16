@@ -2,12 +2,12 @@
 
 git add .
 git commit -m '3.1'
-git remote add origin https://github.com/hominglee/serpi.git
+git remote add origin https://github.com/hominglee/cdpi.git
 git push origin master -f
 
 
 //非强制
 git add .
 git commit -m 'create the route path'
-git remote add origin https://github.com/hominglee/serpi.git
+git remote add origin https://github.com/hominglee/cdpi.git
 git push origin master
